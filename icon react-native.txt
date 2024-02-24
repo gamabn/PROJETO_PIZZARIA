@@ -1,0 +1,1 @@
+https://docs.leunardo.dev/react-native/06-vector-icons
